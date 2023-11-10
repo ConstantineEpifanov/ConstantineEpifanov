@@ -1,7 +1,12 @@
+
 <p align="right">
-    <a href="mailto:asbest911@gmail.com"> <img align="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail" height="30"/></a>
-    <a href="https://t.me/alter_const"> <img align="" src="https://img.shields.io/badge/Telegram-1E90FF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF" alt="Telegram" height="30"/></a>
+     <a href="https://spb.hh.ru/resume/bb3b974eff0bbcb6d00039ed1f7030424a6b4c"><img align="left" src="https://img.shields.io/badge/%D0%98%D1%89%D1%83_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83-rgba(176%2C%20255%2C%2026%2C%201)?style=for-the-badge" height="30"/></a>
+    <a href="mailto:asbest911@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail" height="30"/></a>
+    <a href="https://t.me/alter_const"> <img src="https://img.shields.io/badge/Telegram-1E90FF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF" alt="Telegram" height="30"/></a>
 </p>
+
+
+
 
 <h1 align="center"><i>Привет! Я Константин</i></h1>
 
