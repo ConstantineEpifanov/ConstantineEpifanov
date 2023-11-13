@@ -23,6 +23,7 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ![](https://komarev.com/ghpvc/?username=ConstantineEpifanov&color=green&style=for-the-badge)
+[![codewars](https://www.codewars.com/users/ConstantineEpifanov/badges/micro)](https://www.codewars.com/users/ConstantineEpifanov)
 
 ## Технологии
 
@@ -55,3 +56,5 @@
 
   <p>- Email: <a href="mailto:asbest911@gmail.com" target="_blank">asbest911@gmail.com</a></p>
   <p>- Telegram: <a href="https://t.me/alter_const" target="_blank">alter_const</a></p>
+
+![](https://hit.yhype.me/github/profile?user_id=113720033)
