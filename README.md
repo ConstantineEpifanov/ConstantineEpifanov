@@ -48,7 +48,7 @@
 
 ## Образование
 
-<p>Веб-разрабочтик, <strong><a href="https://practicum.yandex.ru/web/" target="_blank">Яндекс Практикум</a></strong>, 2023</p>
+<p>Веб-разрабочтик, <strong><a href="https://practicum.yandex.ru/web/" target="_blank">Яндекс Практикум</a></strong></p>
 
 
 ## Контакты
